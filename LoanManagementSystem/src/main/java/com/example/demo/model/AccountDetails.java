@@ -19,7 +19,7 @@ import lombok.Setter;
 @Setter
 @AllArgsConstructor
 @NoArgsConstructor
-@Table(name="accountdetails")
+@Table(name="ACCOUNTDETAILS")
 public class AccountDetails {
 
 	@Id
